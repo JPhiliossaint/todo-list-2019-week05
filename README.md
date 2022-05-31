@@ -1,4 +1,4 @@
-# Street FIghter Slot Machine: <a target="_blank" href="https://todo-list-jamesphi.netlify.app/"/>Visit Here</a>
+# To Do List <a target="_blank" href="https://todo-list-jamesphi.netlify.app/"/>Visit Here</a>
 
 <img src= "todo.gif"/>
 
